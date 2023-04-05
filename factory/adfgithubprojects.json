@@ -1,0 +1,9 @@
+{
+	"name": "adfgithubprojects",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d873d329-8bfc-4b4f-9f13-b2b669d8cabb",
+		"tenantId": "b1b5a902-ccdd-4a42-ae0d-45046284c97e"
+	}
+}
